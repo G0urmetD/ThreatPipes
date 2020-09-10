@@ -27,9 +27,11 @@ MacOS 10.14 (or greater)
 
 
 # start the service
-´´´
-systemctl stop threatpipes
-systemctl start threatpipes
-systemctl restart threatpipes
-systemctl status threatpipes
-´´´
+>systemctl stop threatpipes
+
+>systemctl start threatpipes
+
+>systemctl restart threatpipes
+
+>systemctl status threatpipes
+
