@@ -17,9 +17,12 @@ MacOS 10.14 (or greater)
 
 # installation
 >sudo apt update
+
 >sudo apt install python3-venv
 >tar xzvf threatpipes.tar.gz
+
 >cd threatpipes
+
 >./threatpipes.sh prodinstall
 
 
