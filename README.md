@@ -16,13 +16,12 @@ MacOS 10.14 (or greater)
 20GB Free disk space
 
 # installation
-´´´
-sudo apt update
-sudo apt install python3-venv
-tar xzvf threatpipes.tar.gz
-cd threatpipes
-./threatpipes.sh prodinstall
-´´´
+>sudo apt update
+>sudo apt install python3-venv
+>tar xzvf threatpipes.tar.gz
+>cd threatpipes
+>./threatpipes.sh prodinstall
+
 
 # start the service
 ´´´
