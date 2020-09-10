@@ -5,14 +5,14 @@ DNS, Whois, Web pages, passive DNS, spam blacklists, file meta data, threat inte
 The data returned from a ThreatPipes scan will reveal a lot of information about your target, providing insight into possible data leaks, vulnerabilities or other sensitive information that can be leveraged during a penetration test, red team exercise or for threat intelligence.
 
 # requierements
-Ubuntu 16 (or greater)
-Kali 2018 (or greater)
-Debian 9 (or greater)
+Ubuntu 16 (or greater) |
+Kali 2018 (or greater) |
+Debian 9 (or greater) |
 MacOS 10.14 (or greater)
 
-2x six-core
-2+ GHz CPU
-8GB RAM
+2x six-core |
+2+ GHz CPU |
+8GB RAM |
 20GB Free disk space
 
 # installation
