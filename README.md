@@ -39,6 +39,7 @@ MacOS 10.14 (or greater)
 
 
 # certificate
+if there is a problem with your certificate because of a proxy, you have to install a root certificate
 >sudo apt-get install ca-certificates -y
 
 >sudo cp CERTIFICATE.crt /usr/local/share/ca-certificates
