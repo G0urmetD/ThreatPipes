@@ -37,3 +37,10 @@ MacOS 10.14 (or greater)
 
 >systemctl status threatpipes
 
+
+# certificate
+>sudo apt-get install ca-certificates -y
+
+>sudo cp CERTIFICATE.crt /usr/local/share/ca-certificates
+
+>sudo update-ca-certificates
